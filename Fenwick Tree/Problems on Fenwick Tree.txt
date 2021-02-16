@@ -1,0 +1,19 @@
+Type - Swap neighbouring digits and form some sort of sequence in an optimal way
+
+Question - https://leetcode.com/problems/minimum-possible-integer-after-at-most-k-adjacent-swaps-on-digits/
+
+Solution 1 - Based on 1 indexed - https://leetcode.com/submissions/detail/362339112/
+Solution 2 - Based on 0 indexed - https://leetcode.com/submissions/detail/362335760/
+
+Similar type of problem - 
+	Question - https://codeforces.com/contest/1430/problem/E
+	Solution - https://codeforces.com/contest/1430/submission/95480261
+
+------------------------------------------------------------------------------------------------------------------------
+
+Question - https://codeforces.com/problemset/problem/1354/D
+Solution - https://codeforces.com/contest/1354/submission/80605694
+Explanation - https://www.youtube.com/watch?v=fgEe-iPdqeI&t=330s
+
+-----------------------------------------------------------------------------------------------------------------------
+	

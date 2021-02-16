@@ -1,0 +1,9 @@
+Question 1 -
+	https://leetcode.com/problems/number-of-ways-to-wear-different-hats-to-each-other/
+
+Question 2- 
+ 	Iterating over subsets of a current mask - 
+	Question - https://leetcode.com/problems/distribute-repeating-integers/
+	Solution - https://leetcode.com/submissions/detail/420220529/
+	
+	This might help a little if needed - https://www.youtube.com/watch?v=3l5ZCiBHl5A&ab_channel=ProgrammingLivewithLarry
